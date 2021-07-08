@@ -1,0 +1,34 @@
+.slicknav_menu
+{
+	display: none;
+}
+
+@media screen and (max-width: 992px)
+{
+	#menu
+	{
+		display: none;
+	}
+
+	.slicknav_menu
+	{
+		display: inline-block;
+		background: black;
+		margin-top:27px;
+		margin-right: 25px;
+        padding: 0;
+        height: 3em;
+        line-height: 2;
+        width: 240px;
+		position: fixed;
+		z-index: 1000;
+		right: 0;
+	}
+
+	.slicknav_nav li
+    {
+    	background-color: black;
+       
+    }
+}
+
