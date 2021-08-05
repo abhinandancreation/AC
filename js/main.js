@@ -8,8 +8,6 @@
          scroll:{
                  items:1,
                  duration:500,
-                 pauseOnHover:true
-             
          },
          auto:true,
          items:
