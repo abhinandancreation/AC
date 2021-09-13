@@ -612,6 +612,6 @@ button[type="submit"]:hover {
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
-    align-content: right;
+    vertical-align: middle;
     color: white;
 }
