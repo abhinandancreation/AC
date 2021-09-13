@@ -603,3 +603,18 @@ button[type="submit"]:hover {
 	color: white;
 	transition: all 0.3s ease-in;
 }
+
+.top-header
+{
+    background: #34495e;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    align-content: right;
+}
+
+
+
+
