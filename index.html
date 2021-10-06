@@ -345,6 +345,15 @@
 </script>
 <!-- /GetButton.io widget -->
 
+<div class="loader-wrapper">
+      <span class="loader"><span class="loader-inner"></span></span>
+</div>
+
+ <script>
+        $(window).on("load",function(){
+          $(".loader-wrapper").fadeOut("slow");
+        });
+</script>
 <script src="js/main.js" type="text/javascript"></script>
 <script src="js/jquery.slicknav.min.js" type="text/javascript"></script>
 <script src="js/smoothScroll.js" type="text/javascript"></script>
